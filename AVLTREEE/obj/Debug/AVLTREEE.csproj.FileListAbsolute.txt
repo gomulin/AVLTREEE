@@ -1,0 +1,2 @@
+C:\Users\ната\source\repos\AVLTREEE\AVLTREEE\obj\Debug\AVLTREEE.csprojAssemblyReference.cache
+C:\Users\ната\source\repos\AVLTREEE\AVLTREEE\obj\Debug\AVLTREEE.csproj.CoreCompileInputs.cache
